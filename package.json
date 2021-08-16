@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "google-closure-library": "^20201006.0.0",
-    "ws": "6.1.x"
+    "ws": "^3.3.2"
   },
   "engines": {
     "node": "10.x"
